@@ -19,7 +19,7 @@ const HomeContent = () => {
                 <NavLink to={"/listedbooks"}><Button text={"View The List"} bgColor={"bg-green"} textColor={"text-white"}></Button></NavLink>
             </div>
             <div className="basis-1/2">
-                <img src="/src/assets/HeroImg.png" alt="" className="mx-auto"/>
+                <img src="/HeroImg.png" alt="" className="mx-auto"/>
             </div>
         </div>
         <h1 className="mt-20 mb-10 text-center text-4xl font-bold">Books</h1>
